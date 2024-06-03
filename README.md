@@ -20,7 +20,7 @@
 This project aims to analyze the performance of Nigeria's agricultural exports, focusing on various products such as sesame, cocoa, cashew, rubber, plantain, cassava, palm oil, and ginger. The analysis is conducted using Power BI, allowing for interactive visualizations and insights.
 
 ## Data Source
-The data used in this project is sourced from the `nigeria-export.xlsx` file, which contains relevant information about Nigeria's agricultural exports.
+The data used in this project is sourced from the `nigeria_agricultural_exports.xlsx` file, which contains relevant information about Nigeria's agricultural exports.
 
 ## Dashboard Pages
 
